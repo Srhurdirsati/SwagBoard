@@ -27,9 +27,9 @@ Today , I Got My Hands On Finishing The Schematic First After Finishing WHich I 
 
 <img width="1422" height="873" alt="image" src="https://github.com/user-attachments/assets/beb36175-c224-4c38-976f-dac9a532db5a" />
 
-**ALL WORK FINISHED**
+> ALL WORK FINISHED
 
 **`Total time spent: 2.5 Hour`**
 
-##TOTAL TIME SPENT IN THE WHOLE PROJECT : ` 3.5 Hours `
+## TOTAL TIME SPENT IN THE WHOLE PROJECT : ` 3.5 Hours `
 
