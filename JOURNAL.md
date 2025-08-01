@@ -5,7 +5,7 @@ Description: This Is A Creation Of A Super Cool PCB Hacker Card Including NFC Wh
 Created On: "30/7/2025"
 ---
 
-# July 30th : Started The Schematics
+# July 30th : Started The Schematics..
 
 I Started The Work With The Schematics And Roughly Designing The Card On A Paper... It Was Started Too Late So I Can't Finish It The Same Day......
 
@@ -13,7 +13,7 @@ Just Started So What Kind Of Pics Are U Expecting :D
 
 **`Total time spent: 1 Hour`**
 
-# July 31st : Schematic Completed AND PCB Work Started
+# July 31st : Schematic Completed AND PCB Too..
 
 Today , I Got My Hands On Finishing The Schematic First After Finishing WHich I Started My PCB Work And Completed It The Same Day Too Along With Adding Silkscreens And All Texts And QR Codes ... :P
 
