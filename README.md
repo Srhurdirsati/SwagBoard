@@ -6,10 +6,14 @@ Yo Lads , This Is A Creation of a NFC Card Made By Rudra Mishra.....
 
 # FEATURES
 
-> QR Codes For Quick Reference And Answer To The Question Who Is Rudra Mishra
-> Cool Silkscreen At The Back
-> Just A Nice Organsatin of Text And Qr
-> Looks Like A Professional Buisness Card
+- QR Codes For Quick Reference And Answer To The Question Who Is Rudra Mishra
+ 
+- Cool Silkscreen At The Back
+ 
+- Just A Nice Organsatin of Text And Qr
+ 
+- Looks Like A Professional Buisness Card
+ 
 
 # IMAGESSS
 
