@@ -27,17 +27,17 @@ Yo Lads , This Is A Creation of a NFC Card Made By Rudra Mishra.....
 
 # 📋 Bill of Materials (BOM) `FROM TUTORIAL`
 
--A NT3H2111W0FHKH NFC Chip: this will be the main component of our card -- it both handles the NFC functionality as well as harvests energy from the phone to light up the LED
+- A NT3H2111W0FHKH NFC Chip: this will be the main component of our card -- it both handles the NFC functionality as well as harvests energy from the phone to light up the LED
 
 
 
--An ~2V LED. I'm using C2296, but feel free to pick a different color (note: this part may also be called 17-21SUYC/TR8)
+- An ~2V LED. I'm using C2296, but feel free to pick a different color (note: this part may also be called 17-21SUYC/TR8)
 
 
--A 47Ω resistor
+- A 47Ω resistor
 
 
--A 220nF capacitor
+- A 220nF capacitor
 
 
 
